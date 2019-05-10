@@ -12,3 +12,10 @@ body {
     background: red;
 }
 ```
+
+## Commands:
+- git status
+- git add -A
+- git commit -m "note detailing what was updated and added"
+- git status 
+- git push origin master
